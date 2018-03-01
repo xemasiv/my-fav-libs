@@ -19,6 +19,8 @@ Curated list of my favourite libraries
 ## React Native Articles
 
 * Uploading images to GCP - https://medium.com/google-cloud/upload-images-to-google-cloud-storage-with-react-native-and-expressjs-61b8874abc49
+* Redux persist - https://blog.reactnativecoach.com/the-definitive-guide-to-redux-persist-84738167975
+* Redux persist - https://www.npmjs.com/package/react-native-redux-persist
 
 ## Stripe Articles
 
